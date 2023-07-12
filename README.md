@@ -3,14 +3,13 @@
 
 This regionalization was originally published by Heluta (1989), to illustrate the distribution of powdery mildew fungi across Ukraine, and further was used in the series "Flora Fungorum Ucrainicae", as well as individual publications and thesis in Mycology. The regionalization was based mainly on the current at that time Geobotanical zonation of the URSR (Barbarych et. al, 1977).
 
-Since both names and accepted abbreviations of regions originally were in Russian, we adopted the translation made by Akulov et al. (2003), with some additions from a later publication by Prylutskyi & Chvikov (2020):
+Since both names and accepted abbreviations of regions originally were in Russian, we adopted the translation made by Akulov et al. (2003), with some additions from a later publication by [Prylutskyi & Chvikov, 2020](http://journals.hnpu.edu.ua/index.php/biology/article/view/3397):
 
-**UPD 2023:** Ukrainian names and abbreviations, as well as English names of the regions, updated according to [Heluta,2023](https://ukrbotj.co.ua/archive/80/3/199).
+**UPD 2023:** Ukrainian names and abbreviations, as well as English names of the regions, updated according to [Heluta, 2023](https://ukrbotj.co.ua/archive/80/3/199).
 
 ![Ecoregions according to the "Flora Fungorum Ucrainicae"](https://github.com/olehprylutskyi/UA_ecoregions/blob/main/UA_colors.png)
 
-VFS — Volyn (Volhynian) Forest-Steppe, MCr — Mountain Crimea, DGMS — Donetsk Grass-Meadow Steppe, TR — Transcarpathia, WFS — Western Forest-Steppe, WP — Western Polissya, WUF — Western Ukrainian Forests, CF — Carpathian Forests, CrFS — Crimean Forest-Steppe, CrS — Crimean Steppe, LGMS — Left Bank Grass-Meadow Steppe, LGS — Left Bank Grass Steppe, LFS — Left Bank Forest-Steppe, LP — Left Bank Polissya, LesP — Lesser Polissya, SCCr — South Coast of Crimea, RGMS — Right Bank Grass-Meadow Steppe, RGS — Right
-Bank Grass Steppe, CCF — Cis-Carpathian Forests, RFS — Right Bank Forest-Steppe, PS — Polynovyi (Artemisia) Steppe, RF — Roztochchya Forests, SGMS — Starobilsk Grass-Meadow Steppe, EEUF — East European (Central Russian) Upland Forests, KFS — Kharkiv Forest-Steppe, CP — Central (Right Bank) Polissya
+VFS — Volyn (Volhynian) Forest-Steppe, MCr — Mountain Crimea, DGMS — Donetsk Grass-Meadow Steppe, TR — Transcarpathia, WFS — Western Forest-Steppe, WP — Western Polissya, WUF — Western Ukrainian Forests, CF — Carpathian Forests, CrFS — Crimean Forest-Steppe, CrS — Crimean Steppe, LGMS — Left Bank Grass-Meadow Steppe, LGS — Left Bank Grass Steppe, LFS — Left Bank Forest-Steppe, LP — Left Bank Polissya, LesP — Lesser Polissya, SCCr — South Coast of Crimea, RGMS — Right Bank Grass-Meadow Steppe, RGS — Right Bank Grass Steppe, CCF — Cis-Carpathian Forests, RFS — Right Bank Forest-Steppe, PS — Polynovyi (Artemisia) Steppe, RF — Roztochchya Forests, SGMS — Starobilsk Grass-Meadow Steppe, EEUF — East European (Central Russian) Upland Forests, KFS — Kharkiv Forest-Steppe, CP — Central (Right Bank) Polissya
 
 ## Dataset description
 
